@@ -13,6 +13,7 @@ Simplifier is a lightweight web app that quickly summarizes text using Hugging F
 
 Try it out: [👨🏻‍💻](https://ai-text-summarizer03.netlify.app/)
 
+
 ## How It Works
 
 1. **Input Text**: Paste or type the text you want to summarize.
