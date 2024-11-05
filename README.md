@@ -1,6 +1,6 @@
 
 # Simplifier - AI Text Summarizer
-
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/8016b677-e126-4ca9-9d38-b9e7871859e4">
 Simplifier is a lightweight web app that quickly summarizes text using Hugging Face's NLP models. Built with HTML, CSS, and JavaScript, it provides an easy-to-use interface for generating concise summaries of lengthy content.
 
 ## Features
@@ -58,5 +58,10 @@ To use Simplifier locally:
 This project is licensed under the MIT License.
 
 ---
+## Contact
 
-Enjoy faster reading with [App Name]!
+If you have any questions or want to contribute, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/naman-singh-rana-a54842319) or via [Email](mailto:namanr738@gmail.com).
+
+---
+
+Enjoy faster reading with Simplifier!
