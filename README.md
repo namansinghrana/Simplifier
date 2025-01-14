@@ -3,6 +3,7 @@
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/8016b677-e126-4ca9-9d38-b9e7871859e4">
 SmarScribe is a lightweight web app that quickly summarizes text using Hugging Face's NLP models. Built with HTML, CSS, and JavaScript, it provides an easy-to-use interface for generating concise summaries of lengthy content.
+
 ## Features
 
 - **Instant Summaries**: Summarize any text with one click.
